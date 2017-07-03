@@ -1,0 +1,14 @@
+!*.exe
+!*.dll
+*.log
+*.md
+s1drop.bin
+sh.exe.stackdump
+sonic1.lst
+sonic1.sym
+sonic1.symcmp
+output.txt
+/.project
+colorgen.py
+*~
+disasm/.txt
